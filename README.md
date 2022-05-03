@@ -40,11 +40,11 @@ Sin duda alguna los personajes que más resaltan es el propio spiderman, más su
 
 ## Mención a compeñeros de Curso
 
-* Compañero de Curso  -  @LuisOvalleH 🤙🏼
-* Compañero de Curso  -  [GitHub Pages](https://github.com/Raulingra) 🤙🏼
+* Compañero de Curso  -  [LuisOvalleH](https://github.com/LuisOvalleH)🤙🏼
+* Compañero de Curso  -  [RaulinGra](https://github.com/Raulingra)🤙🏼
 
 ### Mención a compañeros de Trabajo
 
-* @Iris-Perez
-* @JoshuaAscoli
-* @joseeee17
+* [Iris-Perez](https://github.com/Iris-Perez)
+* [JoshuaAscoli](https://github.com/JoshuaAscoli)
+* [joseeee17](https://github.com/joseeee17)
